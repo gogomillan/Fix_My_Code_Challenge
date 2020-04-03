@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""
-Script for FizzBuzz challenge
+""" Script for FizzBuzz challenge
 """
 import sys
 
