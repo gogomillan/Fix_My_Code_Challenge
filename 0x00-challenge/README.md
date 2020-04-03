@@ -30,7 +30,7 @@ $
 
 **15** should print **_FizzBuzz_** not ~~Fizz~~
 
-**Answer file:** [0-fizzbuzz.py](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/0-fizzbuzz.py)
+**Answer file:** [0-fizzbuzz.py](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/0x00-challenge/0-fizzbuzz.py)
 
 
 ### 2. Print square
@@ -66,7 +66,7 @@ $
 
 **./1-print_square.js 10** should print a square of **_size 10_**
 
-**Answer file:** [1-print_square.js](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/1-print_square.js)
+**Answer file:** [1-print_square.js](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/0x00-challenge/1-print_square.js)
 
 ### 3. Sort
 Please find here my implementation of sorting arguments in Ruby: [source code](https://intranet.hbtn.io/rltoken/5E7Rrq_70OutipYULjh6Gw)
@@ -86,7 +86,7 @@ $ ruby 2-sort.rb 12 41 2 C 9 -9 31 fun -1 32
 $
 ```
 
-**Answer file:** [2-sort.rb](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/2-sort.rb)
+**Answer file:** [2-sort.rb](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/0x00-challenge/2-sort.rb)
 
 ### 4. User password
 Please find here my implementation of a User class in Python: [source code](https://github.com/holbertonschool/Fix-my-code-0/blob/master/3-user.py)
@@ -103,7 +103,7 @@ $
 
 My tests should not print any error...
 
-**Answer file:** [3-user.py](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/3-user.py)
+**Answer file:** [3-user.py](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/0x00-challenge/3-user.py)
 
 ### 5. Double linked list
 Please find here my implementation of a Double linked list in C: [source code](https://intranet.hbtn.io/rltoken/YvS8G70JQA-5q_qce9MjIg)
@@ -181,10 +181,11 @@ $
 
 It doesnt look right...
 
-**Answer file:** [4-delete_dnodeint](https://github.com/gogomillan/Fix_My_Code_Challenge/tree/master/4-delete_dnodeint)
+**Answer file:** [4-delete_dnodeint](https://github.com/gogomillan/Fix_My_Code_Challenge/tree/master/0x00-challenge/4-delete_dnodeint)
 
 ## Author
 - Gonzalo Gomez Millan  |  :octocat: [Github](https://github.com/gogomillan)
 
 ## License
-GLP-3.0 
+MIT [Read more ...](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/LICENSE)
+
