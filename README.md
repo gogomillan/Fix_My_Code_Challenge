@@ -16,4 +16,4 @@ Programas written in Ruby, Javascript, Python and C languages.
 - Gonzalo Gomez Millan  |  :octocat: [Github](https://github.com/gogomillan)
 
 ## License
-MIT
+MIT [Read more ...](https://github.com/gogomillan/Fix_My_Code_Challenge/blob/master/LICENSE)
