@@ -1,5 +1,5 @@
 # Challenge Fix-my-code 0x00
-Fix code challenge for Ruby, Javascript, Python and C languages. 
+Fix code challenge for find out the error and fix it on scripts of Ruby, Javascript, Python and C languages. 
 
 ## Fix code on next languages
 - Ruby
